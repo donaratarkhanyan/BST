@@ -19,7 +19,8 @@ The image above is a valid BST. Everything on the left is less than it's parent 
 
 This does not only apply to immediate child nodes. Let's look at the image on the following image:
 
-<img src="../../assets/images/binary-search-tree.png" alt="" />
+![image](https://github.com/user-attachments/assets/58021017-b504-4205-9994-b4e566480d42)
+
 
 If we look at the tree on the right-hand side, it is a valid binary tree, but it is not a valid binary search tree. The reason being that 3 is on the right side of 4, but 3 is less than 4. Everything on the right side of a node must be greater than or equal to the node's value.
 
