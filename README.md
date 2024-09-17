@@ -8,7 +8,8 @@ For instance, consider a binary search tree that stores strings representing nam
 
 Let's look at the following tree and go over the rules for a BST:
 
-<img src="../../assets/images/binary-search-tree1.png" alt="" />
+![image](https://github.com/user-attachments/assets/798b06ae-bbf7-464f-8c94-f27d96c48219)
+
 
 1. Each node has at most two child nodes, referred to as the left child and the right child.
 2. The left child's value is less than the parent node's value.
